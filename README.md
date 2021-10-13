@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @himanshukecodes
+
+I am learning new things in python now a days
+
 - 👀 I’m interested in python and javascript
 - 🌱 I’m currently learning advance python
 - 💞️ I’m looking for creations like me...
